@@ -14,6 +14,34 @@
 }
 
 
-.themefont{
+body{
     font-family: 'Nunito Sans', sans-serif;
 }
+
+.pritextcolor{
+    color: var(--pritextcolor);
+}
+
+.sectextcolor{
+    color: var(--sectextcolor);
+}
+
+.footerbgcolor{
+    color: var(--footerbgcolor);
+}
+
+.brand_item{
+    height: 60%;
+    width: 60%;
+}
+
+/*Customize Bootstrap Button*/
+.btn-info,
+.btn-info:hover,
+.btn-info:active,
+.btn-info:visited,
+.btn-info:focus {
+    background-color: #1B2A41;
+    border-color: #1B2A41;
+}
+
