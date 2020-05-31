@@ -33,8 +33,10 @@ body{
     color: var(--sectextcolor);
 }
 
-.footerbgcolor{
-    color: var(--footerbgcolor);
+.footer{
+
+    background-color: var(--footerbgcolor);
+    
 }
 
 .brand_item{
@@ -55,4 +57,9 @@ body{
 i.headset{
 
     font-size: 22px;
+}
+
+.social{
+    height: 80%;
+    width: 80%;
 }
